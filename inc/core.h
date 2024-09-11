@@ -101,7 +101,6 @@ void Core::run()
 			float c = vertex.pos.y;
 
 			vertex.pos.y = c + 0.0005f * sin(2.0f * time + vertex.pos.x);
-			std::cout << vertex.pos.y << "\n";
 		}
 
 		glow.update();
