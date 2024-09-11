@@ -1,0 +1,3 @@
+[submodule "animation-sln"]
+	path = animation-sln
+	url = https://github.com/dwfwl/animation-sln.git
